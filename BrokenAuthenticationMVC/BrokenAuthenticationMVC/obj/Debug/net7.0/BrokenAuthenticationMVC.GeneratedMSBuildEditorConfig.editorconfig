@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BrokenAuthenticationMVC
 build_property.RootNamespace = BrokenAuthenticationMVC
-build_property.ProjectDir = C:\Users\Stephan\Documents\GitHub\WAPP-Broken-Authentication-To-AzureAD-Demo\BrokenAuthenticationMVC\BrokenAuthenticationMVC\
+build_property.ProjectDir = D:\Program Files\Projects\WAPP_Demo\BrokenAuthenticationMVC\BrokenAuthenticationMVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Stephan\Documents\GitHub\WAPP-Broken-Authentication-To-AzureAD-Demo\BrokenAuthenticationMVC\BrokenAuthenticationMVC
+build_property.MSBuildProjectDirectory = D:\Program Files\Projects\WAPP_Demo\BrokenAuthenticationMVC\BrokenAuthenticationMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Home/Index.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Home/Privacy.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Shared/Error.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Shared/_LoginPartial.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Todos/Create.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Todos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Todos/Delete.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Todos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Todos/Details.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Todos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Todos/Edit.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Todos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Todos/Index.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Todos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/_ViewImports.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/_ViewStart.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Stephan/Documents/GitHub/WAPP-Broken-Authentication-To-AzureAD-Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Shared/_Layout.cshtml]
+[D:/Program Files/Projects/WAPP_Demo/BrokenAuthenticationMVC/BrokenAuthenticationMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vpb87zle89
